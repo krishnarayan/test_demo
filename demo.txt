@@ -1,0 +1,3 @@
+git add demo.txt
+exit
+echo
